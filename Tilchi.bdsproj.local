@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/08/16 17:08:35.093.cpp,C:\Documents and Settings\MisterX\My Documents\Borland Studio Projects\Unit2.cpp=C:\Documents and Settings\MisterX\Desktop\FrmMain.cpp</Transaction>
+    <Transaction>2007/08/16 17:08:35.093.h,C:\Documents and Settings\MisterX\My Documents\Borland Studio Projects\Unit2.h=C:\Documents and Settings\MisterX\Desktop\FrmMain.h</Transaction>
+    <Transaction>2007/08/16 17:08:35.093.dfm,C:\Documents and Settings\MisterX\My Documents\Borland Studio Projects\Unit2.dfm=C:\Documents and Settings\MisterX\Desktop\FrmMain.dfm</Transaction>
+    <Transaction>2007/08/16 17:08:38.093.bdsproj,C:\Documents and Settings\MisterX\My Documents\Borland Studio Projects\Project2.bdsproj=C:\Documents and Settings\MisterX\Desktop\Tilchi.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
